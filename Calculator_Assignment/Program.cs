@@ -15,7 +15,7 @@ namespace calculator
             bool isAlive = true;
             while (isAlive)
             {
-                // Menu
+                // Menu Creation
                 Console.WriteLine("Welcom to Caluclator program:\n Please select the one of the folling option:");
                 Console.WriteLine(" 1:Addition" + "\n 2:Subration" + "\n 3:Multiplication" + "\n 4:Divison");
                 // Uer input
